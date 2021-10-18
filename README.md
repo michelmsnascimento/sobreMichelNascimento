@@ -18,10 +18,6 @@ Projetos em que estou trabalhando
 
 https://docs.github.com/pt/rest/overview/resources-in-the-rest-api
 
-Emogis:
-
-https://github.com/hideraldus13/github-emoji
-
 
 Formação Bacharelado em Sistemas de Informação
 Universidade Metodista de São Paulo
