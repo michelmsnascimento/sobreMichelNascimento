@@ -1,12 +1,9 @@
 # Sobre Michel Nascimento
 
-## Contato
+Contato
 
 ```
 michelmsnascimento@gmail.com
-```
-```
-github.com/michelmsnascimento
 ```
 ```
 linkedin.com/in/michelmsnascimento
@@ -14,10 +11,7 @@ linkedin.com/in/michelmsnascimento
 
 Projetos em que estou trabalhando
 
-
-
 https://docs.github.com/pt/rest/overview/resources-in-the-rest-api
-
 
 Formação Bacharelado em Sistemas de Informação
 Universidade Metodista de São Paulo
@@ -50,14 +44,14 @@ bom relacionamento interpessoal, comunicativo, organizado e confiante.
 
 Hard Skills Html, CSS, Java Script, Bootstrap
 
-Hardware avançado (60 horas) 2010,
-MASP (20 horas) 2010,
-Implantação de redes locais e wirelles (120 horas) 2010,
-Montagem e manutenção de microcomputadores (80 horas) 2011,
-Mantenedor de microcomputadores (160 horas) 2011,
-AUTOCAD (40 horas) 2010,
-Desenho Técnico Mecânico (40 Horas) 2010.
-SolidWorks (40 horas) 2012
+
+## Cursos
+Hardware avançado,
+MASP,
+Implantação de redes locais e wirelles,
+Montagem e manutenção de microcomputadores,
+Mantenedor de microcomputadores,
+
 
 Idiomas Inglês (Básico)
 Cursando Inglês Extremo - Curso Completo do Zero à Fluência (Udemy)
