@@ -10,13 +10,16 @@ linkedin.com/in/michelmsnascimento
 ```
 
 Projetos em que estou trabalhando
+```
 
-https://docs.github.com/pt/rest/overview/resources-in-the-rest-api
 
-Formação Bacharelado em Sistemas de Informação
-Universidade Metodista de São Paulo
-Início: 01/2019 (Cursando o 5° semestre)
-Término previsto: 12/2022.
+```
+
+
+
+Cursando Bacharelado em Sistemas de Informação UMESP
+Conslusão Prevista: 12/2022.
+
 Planejamento
 Gerenciamento de projetos
 Modelagem de sistemas
@@ -38,9 +41,18 @@ Banco de dados
 MySQL
 OracleSQL
 
-Soft Skills Criativo, versátil, pro-ativo, movido a novos desafios, facilidade em solucionar
-problemas e propor melhorias, visão de negócios, trabalho em equipe,
-bom relacionamento interpessoal, comunicativo, organizado e confiante.
+### Soft Skills 
+- [x] Criativo versátil
+- [x] Proativo
+- [x] movido a novos desafios
+- [x] facilidade em solucionar
+- [ ] problemas e propor melhorias 
+- [ ] visão de negócios
+- [ ] trabalho em equipe
+- [ ] bom relacionamento interpessoal
+- [ ] comunicativo
+- [ ] organizado 
+- [ ] confiante
 
 Hard Skills Html, CSS, Java Script, Bootstrap
 
@@ -75,3 +87,5 @@ Função: Analista de Suporte (Sênior)
 Início: 04/2010 - 10/2012
 Suporte avançado ao cliente, na linha de
 notebooks e desktops HP Commercial. |
+
+https://docs.github.com/pt/rest/overview/resources-in-the-rest-api
