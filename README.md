@@ -1,4 +1,4 @@
-# Sobre Michel Nascimento
+## Sobre Michel Nascimento
 
 Contato
 
@@ -72,27 +72,24 @@ OracleSQL
 #### Cursos Concluidos
 
 #### Idiomas 
-```Inglês``` My progress bar                   [###############################] 100%
-```
+```Inglês Básico         [###############|###############]100%  ```;
+```Inglês Intermediário  [##########-----|---------------]35%   ```;
+```Inglês Avançado       [---------------|---------------]0%    ```;
 
 Cursando Inglês Extremo - Curso Completo do Zero à Fluência (Udemy)
 
-Experiência
-Profissional
-
-
-
-### Experiência 1
+### Experiência Profissional 1
+#### Experiência 1
 | PARTNER PNEUMÁTICA IND. E COM. LTDA |
 | --- |
 | Função: Desenhista Industrial | 
 Início: 10/2012 - (Emprego Atual)
 Experiência: SolidWorks, AutoCAD, Excel,
 Photoshop, CorelDraw. |
-### Experiência 2
+#### Experiência 2
 | SITEL do Brasil | 
 | --- |
-| Função: Analista de Suporte (Sênior) |
+| Função: Analista de Suporte Sênior |
 Início: 04/2010 - 10/2012
 Suporte avançado ao cliente, na linha de
 notebooks e desktops HP Commercial. |
