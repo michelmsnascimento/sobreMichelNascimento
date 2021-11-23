@@ -15,8 +15,6 @@ Projetos em que estou trabalhando
 
 ```
 
-
-
 Cursando Bacharelado em Sistemas de Informação UMESP
 Conslusão Prevista: 12/2022.
 
@@ -69,16 +67,14 @@ OracleSQL
 ```Montagem e manutenção de microcomputadores```
 ```Mantenedor de microcomputadores```
 
-#### Cursos Concluidos
+## Idiomas 
+```Inglês Básico         [###############|###############]100%  ```<br>
+```Inglês Intermediário  [##########-----|---------------]35%   ```<br>
+```Inglês Avançado       [---------------|---------------]0%    ```<br>
 
-#### Idiomas 
-```Inglês Básico         [###############|###############]100%  ```;
-```Inglês Intermediário  [##########-----|---------------]35%   ```;
-```Inglês Avançado       [---------------|---------------]0%    ```;
+- [ ] Cursando Inglês Extremo - Curso Completo do Zero à Fluência (Udemy)
 
-Cursando Inglês Extremo - Curso Completo do Zero à Fluência (Udemy)
-
-### Experiência Profissional 1
+## Experiência Profissional 1
 #### Experiência 1
 | PARTNER PNEUMÁTICA IND. E COM. LTDA |
 | --- |
