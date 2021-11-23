@@ -42,20 +42,24 @@ MySQL
 OracleSQL
 
 ### Soft Skills 
-- [x] Criativo versátil
+- [x] Criativo
 - [x] Proativo
-- [x] movido a novos desafios
-- [x] facilidade em solucionar
-- [ ] problemas e propor melhorias 
-- [ ] visão de negócios
-- [ ] trabalho em equipe
-- [ ] bom relacionamento interpessoal
-- [ ] comunicativo
-- [ ] organizado 
-- [ ] confiante
+- [x] Movido a novos desafios
+- [x] Habilidade em entender e solucionar problemas
+- [x] visão de negócios
+- [x] trabalho em equipe
+- [x] bom relacionamento interpessoal
+- [x] comunicativo
+- [x] organizado 
+- [x] Melhoria continua
 
-Hard Skills Html, CSS, Java Script, Bootstrap
-
+### Hard Skills
+- [x] Html, CSS, Bootstrap
+- [x] Java Script, NodeJS
+- [x] Python, Django
+- [X] PHP
+- [x] MongoDB, MySQL
+- [x] Oracle
 
 ### Cursos
 ```Hardware avançado```
