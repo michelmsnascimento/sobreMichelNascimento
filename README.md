@@ -79,17 +79,19 @@ Profissional
 
 
 
-### Experiência 
-| PARTNER PNEUMÁTICA IND. E COM. LTDA | SITEL DO BRASIL |
-| --- | --- |
-| git status | 
-Função: Desenhista mecânico Início: 10/2012 - (Emprego Atual)
+### Experiência 1
+| PARTNER PNEUMÁTICA IND. E COM. LTDA |
+| --- |
+| Função: Desenhista Industrial | 
+Início: 10/2012 - (Emprego Atual)
 Experiência: SolidWorks, AutoCAD, Excel,
 Photoshop, CorelDraw. |
-| git diff | 
-Função: Analista de Suporte (Sênior)
+### Experiência 2
+| SITEL do Brasil | 
+| Função: Analista de Suporte (Sênior) |
 Início: 04/2010 - 10/2012
 Suporte avançado ao cliente, na linha de
 notebooks e desktops HP Commercial. |
+
 
 https://docs.github.com/pt/rest/overview/resources-in-the-rest-api
