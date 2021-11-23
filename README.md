@@ -1,3 +1,7 @@
+# progressbar
+
+[![][travis]][travis-link] [![][quality]][quality-link] [![][release]][release-link]
+
 ## Sobre Michel Nascimento
 
 Contato
