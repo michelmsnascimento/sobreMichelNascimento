@@ -41,7 +41,7 @@ Banco de dados
 MySQL
 OracleSQL
 
-### Soft Skills 
+## Soft Skills 
 - [x] Criativo
 - [x] Proativo
 - [x] Movido a novos desafios
@@ -53,24 +53,27 @@ OracleSQL
 - [x] organizado 
 - [x] Melhoria continua
 
-### Hard Skills
+## Hard Skills
 - [x] Html, CSS, Bootstrap
 - [x] Java Script, NodeJS
 - [x] Python, Django
 - [X] PHP
-- [x] MongoDB, MySQL
-- [x] Oracle
+- [x] MySQL, Oracle
+- [x] MongoDB
+- [x] Conhecimentos em Azure, Docker
 
-### Cursos
+### Cursos no (SENAI)
 ```Hardware avançado```
 ```MASP```
 ```Implantação de redes locais e wirelles```
 ```Montagem e manutenção de microcomputadores```
 ```Mantenedor de microcomputadores```
 
+#### Cursos Concluidos
 
-### Idiomas 
-```Inglês``` (Básico)
+#### Idiomas 
+```Inglês``` My progress bar                   [###############################] 100%
+```
 
 Cursando Inglês Extremo - Curso Completo do Zero à Fluência (Udemy)
 
@@ -88,6 +91,7 @@ Experiência: SolidWorks, AutoCAD, Excel,
 Photoshop, CorelDraw. |
 ### Experiência 2
 | SITEL do Brasil | 
+| --- |
 | Função: Analista de Suporte (Sênior) |
 Início: 04/2010 - 10/2012
 Suporte avançado ao cliente, na linha de
