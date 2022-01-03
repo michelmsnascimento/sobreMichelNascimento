@@ -31,10 +31,10 @@ Python
 Java
 Git
 Linux
-SENAI
 Plataformas
 GitHub
-Azure Kubernetes
+Azure 
+Kubernetes
 Metodologias
 Agil
 Scrum
